@@ -1,30 +1,31 @@
 nav:
-  article: キジ
+  article: 記事
   archives: アーカイブ
   tags: タグ
   categories: カテゴリ
-  about: ついて
+  about: 概要
   menu: メニュー
-  search: サーチ
+  search: 検索
   RSS: 購読
+
 page:
-  prev: < 前のページ
-  next: 後のページ >
-  comment: コメント
-  share: シェア
-  hide: 隠す
+  prev: < Prev
+  next: Next >
+  comment: Comment
+  share: Share
+  hide: Hide
   readmore: Read More...
-  para: ここは合わせて %d 编
-  now: 今は
-  reward: 褒賞
-  index: 書目
+  para: '%d Posts In Total'
+  now: now in
+  reward: reward
+  index: Index
 
 copyright:
-  author: 著者
+  author: Author
   url: URL
   origin: Origin
 
-friendlink: 私の友達
+friendlink: Friends
 
 #footer
 come: Powered by
