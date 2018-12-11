@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    ports:
+      - '4000:4000'
+    command: hexo server
+    volumes:
+      - '.:/web'
+    tty: true
+    stdin_open: true
