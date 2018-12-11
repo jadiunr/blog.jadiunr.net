@@ -9,7 +9,7 @@
   {% block main %}
     {% if page.type === 'about' %}
       <div class="about syuanpi fadeInUp">
-        <h2 class="title"> {{ __('nav.about') }} </h2>
+        <h2 class="title"> {{ page.title }} </h2>
         <div class="content">
           {% if theme.self %}
             {{ theme.self }}
