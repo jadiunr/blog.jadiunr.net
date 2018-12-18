@@ -1,6 +1,6 @@
 ---
 title: DataChannelの使い方
-date: 2018-12-15 00:24:16
+date: 2018-12-19 00:10:16
 tags: WebRTC
 ---
 
