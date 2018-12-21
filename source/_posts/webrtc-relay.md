@@ -45,7 +45,7 @@ Docker & Docker Compose必須です。
 `localhost:8080` でTopページに移ります。
 `/login` に飛んでしてログインを済ませた後
 `/live` に飛んで下さい。 `Video Start` を押してから `Live Start` で配信できます。
-配信開始後は `/watch/hoge` に飛ぶと映像が受信できるはずです。
+配信開始後はシークレットウインドウとか作って `/watch/hoge` に飛ぶと映像が受信できるはずです。
 たまに失敗するのでリロードしてください(ha)。
 
 - 認証情報: email: hoge@example.jp, password: hogehogeunko
