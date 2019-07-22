@@ -1,8 +1,6 @@
-FROM node:10.12.0-alpine
+FROM node:10.16.0
 
-RUN apk add --update --no-cache git tzdata && \
-    cp /usr/share/zoneinfo/Asia/Tokyo /etc/localtime && \
-    echo "Asia/Tokyo" > /etc/timezone && \
-    npm i -g hexo-cli
+ENV LANG C.UTF-8
+ENV TZ Asia/Tokyo
 
 WORKDIR /web

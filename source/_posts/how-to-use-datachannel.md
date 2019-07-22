@@ -14,6 +14,8 @@ http://icttoracon.net/tech-blog/2018/08/27/ictsc2018-prep01-webrtc-p/
 あとトラコン2次予選は土曜日にやりましたけど12位でした　[激！激！激！激クソ](https://mstdn.maud.io/@jadiunr/101257336684646201)
 49チーム中12位だったので我々は良い結果を残したと思い込んでおきます。
 
+<!-- more -->
+
 # 対象者
 
 [これ](https://booth.pm/ja/items/628127)を3周くらい読んでいる人
