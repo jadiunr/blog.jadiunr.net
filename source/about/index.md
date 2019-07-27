@@ -14,6 +14,14 @@ comments: false
 - Like: Computer Network & Infrastructure, <span style="font-weight:bold">Perl</span>
 - <span style="color:red">Weak: WEB FRONTEND</span>, <span style="color:red;font-weight:bold">JAVASCRIPT</span> <span style="color:silver">blyat</span>
 
+# Certifications
+
+- IPA 基本情報技術者 (15/05~)
+- IPA 応用情報技術者 (16/12~)
+- IPA ネットワークスペシャリスト (17/12~)
+- Cisco CCENT (16/08~19/08)
+- Cisco CCNA R&S (16/11~19/11)
+
 # Links ( Social or Dev )
 
 - Twitter: https://twitter.com/jadiunr
