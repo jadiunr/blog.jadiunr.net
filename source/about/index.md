@@ -8,7 +8,7 @@ comments: false
 
 # About Me
 
-- Name: Gene ( Previously known as <span style="font-weight:bold">Shiva</span> )
+- Name: Gene (KOHMURA Jin)
 - Birthday: 04/10
 - Occupation: College Student of Information Technology
 - Like: Computer Network & Infrastructure, <span style="font-weight:bold">Perl</span>
@@ -19,7 +19,7 @@ comments: false
 - IPA 基本情報技術者 (15/05~)
 - IPA 応用情報技術者 (16/12~)
 - IPA ネットワークスペシャリスト (17/12~)
-- Cisco CCENT (16/08~19/08)
+- Cisco CCENT (16/08~19/11)
 - Cisco CCNA R&S (16/11~19/11)
 
 # Links ( Social or Dev )
