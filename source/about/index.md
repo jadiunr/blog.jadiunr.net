@@ -10,7 +10,7 @@ comments: false
 
 - Name: Gene (KOHMURA Jin)
 - Birthday: 04/10
-- Occupation: College Student of Information Technology
+- Occupation: SRE NOOB
 - Like: Computer Network & Infrastructure, <span style="font-weight:bold">Perl</span>
 - <span style="color:red">Weak: WEB FRONTEND</span>, <span style="color:red;font-weight:bold">JAVASCRIPT</span> <span style="color:silver">blyat</span>
 
