@@ -27,6 +27,7 @@ comments: false
 - Twitter: https://twitter.com/jadiunr
 - GitHub: https://github.com/jadiunr
 - Facebook: https://www.facebook.com/jadiunr
+- Mastodon: https://ap.jadiunr.net/@jadiunr
 
 # Links ( Game or Media )
 
