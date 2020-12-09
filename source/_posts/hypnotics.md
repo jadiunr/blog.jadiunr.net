@@ -4,7 +4,7 @@ date: 2020-12-10 9:00:00
 tags: Others
 ---
 
-> [末代アド弁当10日目](https://adventar.org/calendars/4713)
+> [末代アド弁当10日目](https://adventar.org/calendars/5046)
 > 一昨日は[おむつのバケモン](https://kb10uy.hateblo.jp/entry/maud-adc2020-diaper)
 > 昨日は[競艇のバケモン](https://okimochi.info/other/149/)でした
 
